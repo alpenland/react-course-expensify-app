@@ -1,5 +1,2 @@
 node_modules/
 public/dist/
-.vs/
-src/selectors/expenses-total.js
-src/tests/selectors/expenses-total.test.js
